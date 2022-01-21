@@ -7,7 +7,7 @@ authors = ["Reid Draper <reiddraper@gmail.com>"]
 [tool.poetry.dependencies]
 python = "^3.9"
 hypothesis = "^6.29.0"
-ipython = "^7.30.0"
+ipython = "^7.31.1"
 
 [tool.poetry.dev-dependencies]
 
